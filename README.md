@@ -14,10 +14,10 @@ Panou admin pentru un site de socializare
 * Schimbare culoare fundal - dând click pe butonul din subsolul paginii, putem schimba culoarea de fundal a paginii
 * Schimbare culoare text - dând click pe butonul din subsolul paginii, putem schimba culoarea de text a paginii
 * Stilizare site
-*
+* Rutare pagini
 ## Pentru a rula local proiectul
 
-1. `git clone https://github.com/alexiliescu17/Project-1.git`
+1. `git clone https://github.com/alexiliescu17/Proiect-1-rutare.git`
 
 2. `cd react-admin-panel`
 
