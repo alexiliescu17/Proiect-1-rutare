@@ -19,8 +19,10 @@ Panou admin pentru un site de socializare
 
 1. `git clone https://github.com/alexiliescu17/Proiect-1-rutare.git`
 
-2. `cd react-admin-panel`
+2. `cd Proiect-1-rutare`
 
 3. `npm install`
 
-4. `npm start`
+4. `npm install react-router-dom`
+
+5. `npm start`
